@@ -11,11 +11,19 @@ Vodafone (Access control vulnerability)
 NASA (Host header injection)
 
 Private bug bounty programs
+
 🧠 Current focus:
+
 Web application security
+
 API security testing
+
 Recon automation
+
 Cloud security (AWS)
+
 🔗 Links:
+
 Portfolio: https://rafa-moreno.vercel.app
+
 LinkedIn: tu enlace
