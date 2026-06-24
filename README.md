@@ -26,4 +26,4 @@ Web application security
 
 Portfolio: https://rafa-moreno.vercel.app
 
-LinkedIn: tu enlace
+LinkedIn: www.linkedin.com/in/rafa-moreno-5b44b4307
