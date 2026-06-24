@@ -1,84 +1,78 @@
-# 🧠 Security Research
+# 🧠 Security Research Portfolio
 
-👋 Hi, I'm Rafa Moreno  
-Security Researcher | Bug Bounty Hunter  
-Web Application Security (OWASP) | API Security | Attack Surface & Recon Automation
+Security Researcher | Bug Bounty Hunter | Web & API Security | Attack Surface Analysis
 
 ---
 
-## 🧠 About
+## 👋 About
 
-Security Researcher focused on discovering and analyzing real-world vulnerabilities in web applications and APIs.
+I am a Security Researcher focused on discovering real-world vulnerabilities in production web applications, APIs, and cloud environments.
 
-I actively participate in bug bounty programs (HackerOne, Bugcrowd, private programs), where I have reported security vulnerabilities in production systems affecting real organizations.
+My work is centered around understanding how systems fail in practice, particularly through attack surface analysis, broken access control, and security misconfigurations.
 
-My work focuses on identifying access control issues, security misconfigurations, and API vulnerabilities through manual testing, attack surface analysis, and automation of reconnaissance workflows.
-
----
-
-## 🐞 Real-world security research
-
-- Vodafone DE — Exposed internal system (Access Control vulnerability)
-- NASA — Host header injection affecting redirect logic
-- Private bug bounty programs — Validated security findings in production systems
+I actively participate in bug bounty programs (HackerOne, Bugcrowd, private programs), where I perform authorized security testing on live systems and document sanitized findings.
 
 ---
 
-## 🧠 Core focus areas
+## 🐞 Selected Security Research
+
+### 🔓 Vodafone DE — Access Control Vulnerability
+Exposed internal administrative functionality discovered through external attack surface enumeration.
+
+### 🌐 NASA — Host Header Injection → Open Redirect
+Insecure host header handling affecting redirect logic in a trusted subdomain.
+
+### 🔐 DeFi Protocol — Liquidation Logic Flaw
+Critical edge-case vulnerability in liquidation mechanism allowing state inconsistency.
+
+---
+
+## 🧠 Core Expertise
 
 - Web Application Security (OWASP Top 10)
-- API Security & Broken Access Control testing
-- Attack Surface Discovery & Recon Automation
-- Security tooling & scripting (Python, Bash)
-- Cloud security fundamentals (AWS)
+- API Security Testing
+- Broken Access Control Analysis
+- Attack Surface Enumeration & Recon Automation
+- Cloud Security Exposure (AWS)
 
 ---
 
-## 🛠️ Methodology
+## 🧪 Methodology
 
-My security research process typically includes:
-
-- External attack surface reconnaissance
-- Manual validation of exposed services and endpoints
-- Security testing of authentication and authorization mechanisms
-- API behavior analysis and input validation testing
-- Responsible disclosure through bug bounty programs
+1. Attack surface discovery
+2. Endpoint and asset mapping
+3. Manual security validation
+4. Business logic and access control testing
+5. Impact analysis & responsible disclosure
 
 ---
 
-## 📁 Repository Contents
+## 📁 Writeups
 
-This repository contains sanitized writeups from real-world security research and bug bounty findings.
+All writeups in this repository are sanitized security case studies.
 
-All reports are written in a high-level format to avoid exposing sensitive details, while still demonstrating technical understanding and security impact.
+They are designed to demonstrate:
+- Technical understanding
+- Attack methodology
+- Security impact reasoning
+
+No sensitive data, exploit chains, or weaponizable details are included.
 
 ---
 
-## ⚠️ Disclaimer
+## 🎯 Goal
 
-All content in this repository is shared for educational and portfolio purposes only.
+Seeking opportunities in:
 
-No sensitive information, exploit payloads, or actionable reproduction steps are included.
-
-All findings have been responsibly disclosed through official bug bounty programs.
+- Application Security Engineer (Junior / Mid)
+- Penetration Testing (Web / API)
+- Security Research roles
+- Cloud Security (AWS-focused environments)
 
 ---
 
 ## 🔗 Links
 
-- 🌐 Portfolio: https://rafa-moreno.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/rafa-moreno-5b44b4307  
-- 💻 GitHub: https://github.com/rafamorenoo  
-
----
-
-## 🚀 Goal
-
-Currently seeking opportunities in:
-
-- Junior Application Security (AppSec)
-- Penetration Testing (Web / API)
-- Security Research / Bug Bounty Engineering
-- Cloud Security (AWS-focused roles)
-
----
+- Portfolio: https://rafa-moreno.vercel.app
+- LinkedIn: https://www.linkedin.com/in/rafa-moreno-5b44b4307
+- GitHub: https://github.com/rafamorenoo
