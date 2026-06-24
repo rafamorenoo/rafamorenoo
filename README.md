@@ -19,7 +19,7 @@ I actively participate in bug bounty programs (HackerOne, Bugcrowd, private prog
 ### 🔓 Vodafone DE — Access Control Vulnerability
 Exposed internal administrative functionality discovered through external attack surface enumeration.
 
-👉 [View writeup](https://github.com/rafamorenoo/security-writeups/blob/main/nasa-host-header-injection.md)
+👉 [View writeup](https://github.com/rafamorenoo/security-writeups/blob/main/vodafone-access-control.md)
 
 ### 🌐 NASA — Host Header Injection → Open Redirect
 Insecure host header handling affecting redirect logic in a trusted subdomain.
