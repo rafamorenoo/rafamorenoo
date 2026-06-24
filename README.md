@@ -19,17 +19,17 @@ I actively participate in bug bounty programs (HackerOne, Bugcrowd, private prog
 ### 🔓 Vodafone DE — Access Control Vulnerability
 Exposed internal administrative functionality discovered through external attack surface enumeration.
 
-👉 [View writeup](security-report/vodafone-access-control.md)
+👉 [View writeup](security-report/blob/main/vodafone-access-control.md)
 
 ### 🌐 NASA — Host Header Injection → Open Redirect
 Insecure host header handling affecting redirect logic in a trusted subdomain.
 
-👉 [View writeup](security-report/nasa-host-header-injection.md)
+👉 [View writeup](security-report/blob/main/nasa-host-header-injection.md)
 
 ### 🔐 DeFi Protocol — Liquidation Logic Flaw
 Critical edge-case vulnerability in liquidation mechanism allowing state inconsistency.
 
-👉 [View writeup](security-report/defi-liquidation-bypass.md)
+👉 [View writeup](security-report/blob/main/defi-liquidation-bypass.md)
 
 ---
 
