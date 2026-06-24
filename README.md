@@ -6,9 +6,9 @@ Web Application Security (OWASP) | API Security | Recon Automation
 I focus on vulnerability research, offensive security, and building security automation tools.
 
 🐞 Real-world security research:
-Vodafone (Access control vulnerability)
+- Vodafone (Access control vulnerability)
 
-NASA (Host header injection)
+- NASA (Host header injection)
 
 Private bug bounty programs
 
@@ -16,11 +16,11 @@ Private bug bounty programs
 
 Web application security
 
-API security testing
+- API security testing
 
-Recon automation
+- Recon automation
 
-Cloud security (AWS)
+- Cloud security (AWS)
 
 🔗 Links:
 
