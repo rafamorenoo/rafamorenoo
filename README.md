@@ -1,4 +1,4 @@
-# 🧠 Security Research Portfolio
+# Security Researcher
 
 Security Researcher | Bug Bounty Hunter | Web & API Security | Attack Surface Analysis
 
