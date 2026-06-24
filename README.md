@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Rafa Moreno
 
-<!--
-**rafamorenoo/rafamorenoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Researcher | Bug Bounty Hunter
+Web Application Security (OWASP) | API Security | Recon Automation
 
-Here are some ideas to get you started:
+I focus on vulnerability research, offensive security, and building security automation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐞 Real-world security research:
+Vodafone (Access control vulnerability)
+NASA (Host header injection)
+Private bug bounty programs
+🧠 Current focus:
+Web application security
+API security testing
+Recon automation
+Cloud security (AWS)
+🔗 Links:
+Portfolio: https://tuweb.com
+LinkedIn: tu enlace
