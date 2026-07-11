@@ -1,84 +1,43 @@
-# Security Researcher
+# Rafa Moreno
 
-Security Researcher | Bug Bounty Hunter | Web & API Security | Attack Surface Analysis
-
----
-
-## 👋 About
-
-I am a Security Researcher focused on discovering real-world vulnerabilities in production web applications, APIs, and cloud environments.
-
-My work is centered around understanding how systems fail in practice, particularly through attack surface analysis, broken access control, and security misconfigurations.
-
-I actively participate in bug bounty programs (HackerOne, Bugcrowd, private programs), where I perform authorized security testing on live systems and document sanitized findings.
+Software Developer | Java · Spring Boot · React · AWS | Security Researcher (Vodafone, NASA, Comisión Europea)
 
 ---
 
-## 🐞 Selected Security Research
+## 👋 Acerca de
 
-### 🔓 Vodafone DE — Access Control Vulnerability
-Exposed internal administrative functionality discovered through external attack surface enumeration.
+Construyo productos de software de principio a fin — y luego intento romperlos yo mismo antes de que lo haga otro.
 
-👉 [View writeup](https://github.com/rafamorenoo/security-writeups/blob/main/vodafone-access-control.md)
+Soy desarrollador especializado en Java y Spring Boot para APIs REST y backend escalable, con experiencia full stack: React en frontend, Flutter en móvil, AWS y Docker en despliegue. Mi TFG, SkillSwap, es una plataforma completa de intercambio de habilidades con matching por IA, chat en tiempo real y autenticación JWT.
 
-### 🌐 NASA — Host Header Injection → Open Redirect
-Insecure host header handling affecting redirect logic in a trusted subdomain.
+En paralelo, soy investigador de seguridad activo. Participo en programas de bug bounty (HackerOne, Bugcrowd, programas privados) haciendo pentesting autorizado sobre sistemas en producción — con 3 vulnerabilidades confirmadas en organizaciones como Vodafone, la NASA y la Comisión Europea, documentadas de forma sanitizada en mi repositorio Security Writeups.
 
-👉 [View writeup](https://github.com/rafamorenoo/security-writeups/blob/main/nasa-host-header-injection.md)
-
-### 🔐 DeFi Protocol — Liquidation Logic Flaw
-Critical edge-case vulnerability in liquidation mechanism allowing state inconsistency.
-
-👉 [View writeup](https://github.com/rafamorenoo/security-writeups/blob/main/defi-liquidation-bypass.md)
+🎯 Busco oportunidades como Backend / Software Developer, donde pueda aportar tanto desarrollo sólido como una mentalidad de seguridad desde el diseño.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Áreas principales
 
-- Web Application Security (OWASP Top 10)
-- API Security Testing
-- Broken Access Control Analysis
-- Attack Surface Enumeration & Recon Automation
-- Cloud Security Exposure (AWS)
-
----
-
-## 🧪 Methodology
-
-1. Attack surface discovery
-2. Endpoint and asset mapping
-3. Manual security validation
-4. Business logic and access control testing
-5. Impact analysis & responsible disclosure
+- Backend: Java 21, Spring Boot, REST APIs, PostgreSQL
+- Frontend & Mobile: React, Next.js, Flutter, TypeScript
+- Cloud & DevOps: AWS, Docker, Terraform, CI/CD
+- Seguridad: Bug Bounty, OWASP Top 10, Burp Suite, Smart Contract Audit
 
 ---
 
-## 📁 Writeups
+## 🐞 Hallazgos de seguridad destacados
 
-All writeups in this repository are sanitized security case studies.
+- **Vodafone DE** — vulnerabilidad de control de acceso, confirmada vía HackerOne.
+- **NASA** — Host Header Injection con Open Redirect, vía Bugcrowd.
+- **Comisión Europea** — vulnerabilidad reportada y confirmada.
+- **Protocolo DeFi (Sumer Protocol)** — fallo crítico en lógica de liquidación, mediante auditoría propia de smart contracts.
 
-They are designed to demonstrate:
-- Technical understanding
-- Attack methodology
-- Security impact reasoning
-
-No sensitive data, exploit chains, or weaponizable details are included.
+Detalle completo y sanitizado en el repositorio [Security Writeups](https://github.com/rafamorenoo/security-writeups).
 
 ---
 
-## 🎯 Goal
-
-Seeking opportunities in:
-
-- Application Security Engineer (Junior / Mid)
-- Penetration Testing (Web / API)
-- Security Research roles
-- Cloud Security (AWS-focused environments)
-
----
-
-## 🔗 Links
+## 🔗 Enlaces
 
 - Portfolio: https://rafa-moreno.vercel.app
-- LinkedIn: https://www.linkedin.com/in/rafa-moreno-5b44b4307
 - GitHub: https://github.com/rafamorenoo
+- LinkedIn: https://www.linkedin.com/in/rafa-moreno-5b44b4307
