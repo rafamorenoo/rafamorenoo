@@ -6,11 +6,11 @@ Software Developer | Java · Spring Boot · React · AWS | Security Researcher (
 
 ## 👋 Acerca de
 
-Construyo productos de software de principio a fin — y luego intento romperlos yo mismo antes de que lo haga otro.
+Desarrollador de software especializado en Java y Spring Boot para APIs REST y backend escalable.
 
-Soy desarrollador especializado en Java y Spring Boot para APIs REST y backend escalable, con experiencia full stack: React en frontend, Flutter en móvil, AWS y Docker en despliegue. Mi TFG, SkillSwap, es una plataforma completa de intercambio de habilidades con matching por IA, chat en tiempo real y autenticación JWT.
+Tengo experiencia construyendo productos full stack de principio a fin: backend con Java/Spring Boot, frontend con React, apps móviles con Flutter, y despliegue en AWS con Docker. Mi TFG, SkillSwap, es una plataforma completa de intercambio de habilidades con matching por IA, chat en tiempo real y autenticación JWT.
 
-En paralelo, soy investigador de seguridad activo. Participo en programas de bug bounty (HackerOne, Bugcrowd, programas privados) haciendo pentesting autorizado sobre sistemas en producción — con 3 vulnerabilidades confirmadas en organizaciones como Vodafone, la NASA y la Comisión Europea, documentadas de forma sanitizada en mi repositorio Security Writeups.
+En paralelo, soy investigador de seguridad activo. Participo en programas de bug bounty (HackerOne, Bugcrowd, programas privados) realizando pentesting autorizado sobre sistemas en producción — con 3 vulnerabilidades confirmadas en organizaciones como Vodafone, la NASA y la Comisión Europea, documentadas de forma sanitizada en mi repositorio Security Writeups.
 
 🎯 Busco oportunidades como Backend / Software Developer, donde pueda aportar tanto desarrollo sólido como una mentalidad de seguridad desde el diseño.
 
