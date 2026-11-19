@@ -1,5 +1,3 @@
-# Rafa Moreno
-
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y Técnico en Sistemas Microinformáticos y Redes, actualmente especializándome en ciberseguridad. Combino desarrollo, sistemas y seguridad.
 
 ## Tecnologías
